@@ -1613,6 +1613,10 @@ CUSTOM
   text-align: left !important;
 }
 
+.reveal h1.right, .reveal h2.right, .reveal h3.right{
+  text-align: right !important;
+}
+
 .reveal section img.clean-img {
   border: none;
   box-shadow: none;
